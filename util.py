@@ -5,3 +5,4 @@ def mostrar_menu(menu):
         
     eleccion = input("Seleccione una opción: ")
     print(f"Opcion elegida: {eleccion}")
+    return eleccion
